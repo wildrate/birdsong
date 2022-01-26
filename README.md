@@ -1,5 +1,7 @@
 # birdsong
-Deep learning models for classifying birdsong
+Deep learning models for classifying birdsong.
+
+Includes creation of tensorflow datasets.
 
 This repo is all about producing and assessing TensorFlow models (not yet TFLite!).
 
