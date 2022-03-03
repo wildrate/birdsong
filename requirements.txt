@@ -1,0 +1,5 @@
+tensorflow==2.6.0
+seaborn
+jupyter
+#https://pypi.org/project/carbontracker/
+#tfds-nightly # Can only install with pip!
